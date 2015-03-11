@@ -14,7 +14,7 @@ var bio = {
 	"welcomeMessage": "I don't like to be handed things",
 	"skills" : ["genius", "billionaire", "playboy", "philanthropist"],
 	"languages" : ["English", "Spanish", "Italian", "Dari"],
-	"bioPic" : "http://img2.wikia.nocookie.net/__cb20120418014346/powerlisting/images/e/e5/Tony_Stark_Business.jpg"
+	"bioPic" : "images/Tony_Stark_Business.jpg"
 };
 
 bio.display = function() {
